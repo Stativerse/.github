@@ -1,4 +1,4 @@
-# Weelcome to Stativerse
+# Welcome to Stativerse
 
 ## Background
 
